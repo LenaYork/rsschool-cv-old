@@ -11,7 +11,7 @@ Speaking about skills, I have been using:
 - [x]  css
 mostly with such libraries as bootstrap and jQuery. I also have basic knowledge of PHP and SQL.
 
-Here you can have a look at my code example:
+Here you can have a look at my code example: [Click!](https://github.com/LenaYork/hexal)
 
 Example
 
@@ -19,8 +19,8 @@ My coding experience includes:
 
 1. Adding some scripts to websites.
 2. Creating [an online shop]( http://littlecrown.ru/)
-3. Creating [a Horoscope website] (http://test.skillwood.by/horoscope/) 
-* The links are clickable.* 
+3. Creating [a Horoscope website](http://test.skillwood.by/horoscope/) 
+*The links are clickable.* 
 
 I graduated from BSTTU in 2013, got a bachelor degree as a psychologyst and an English teacher. I've been learning programming online:
 
