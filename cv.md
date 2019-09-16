@@ -17,9 +17,9 @@ Example
 
 My coding experience includes:
 
-1.Adding some scripts to websites.
-2.Creating [an online shop]( http://littlecrown.ru/)
-3.Creating [a Horoscope website] (http://test.skillwood.by/horoscope/) 
+1. Adding some scripts to websites.
+2. Creating [an online shop]( http://littlecrown.ru/)
+3. Creating [a Horoscope website] (http://test.skillwood.by/horoscope/) 
 * The links are clickable.* 
 
 I graduated from BSTTU in 2013, got a bachelor degree as a psychologyst and an English teacher. I've been learning programming online:
@@ -28,4 +28,5 @@ I graduated from BSTTU in 2013, got a bachelor degree as a psychologyst and an E
 * html academy
 * sololearn
 *  and of course geekbrains 😏
+
 My English level is Advanced I suppose since that's my major. I can communicate with people whether it's chatting or talking person-to-person, also can discuss a wide range of topics, watch movies, series and other videos without subs. No sertificates though.
