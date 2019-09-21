@@ -1,0 +1,69 @@
+a {
+	text-decoration: none;
+	font-weight: bold;
+	color: grey;
+}
+a:hover {
+	color: #32CD32;
+}
+
+ul .menu {
+  padding: 0;
+}
+
+ul.menu li {
+	display: inline; 
+	margin: 5px;
+  padding: 3px; 
+}
+
+header {
+  width: 1024px;
+  position: fixed;
+  top: 0;
+}
+
+.navigation {
+	background-color: #006400;
+  width: 1024px;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
+
+h1, h2 {
+	color: grey;
+}
+
+#skills, #english {
+	background-color: #cff7db;
+  margin: 15px;
+  padding: 10px;
+	
+}
+
+footer {
+  width: 1024px;
+	background-color: #148238;
+	text-align: center;
+}
+
+
+.main-container {
+  margin: 0 auto;
+  width: 1024px;
+  font-family: 'Lucida Sans', Geneva, Verdana, sans-serif;
+  width: 60%;
+}
+
+.central-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+main {
+  width: 1024px;
+  margin-top: 80px;
+}
+
