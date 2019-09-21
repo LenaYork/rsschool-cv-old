@@ -1,6 +1,7 @@
 a {
 	text-decoration: none;
-	font-weight: bold;
+  font-weight: bold;
+  
 	color: grey;
 }
 a:hover {
@@ -18,17 +19,18 @@ ul.menu li {
 }
 
 header {
-  width: 1024px;
   position: fixed;
   top: 0;
+  width: 1024px;
 }
 
 .navigation {
-	background-color: #006400;
-  width: 1024px;
   display: flex;
   justify-content: center;
   align-items: center; 
+  width: 1024px;
+
+	background-color: #006400;
 }
 
 h1, h2 {
@@ -36,24 +38,26 @@ h1, h2 {
 }
 
 #skills, #english {
-	background-color: #cff7db;
   margin: 15px;
   padding: 10px;
-	
+
+	background-color: #cff7db;
 }
 
 footer {
   width: 1024px;
+
+  text-align: center;
+
 	background-color: #148238;
-	text-align: center;
 }
 
 
 .main-container {
   margin: 0 auto;
   width: 1024px;
-  font-family: 'Lucida Sans', Geneva, Verdana, sans-serif;
-  width: 60%;
+
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
 .central-list {
