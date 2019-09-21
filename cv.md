@@ -13,8 +13,6 @@ mostly with such libraries as bootstrap and jQuery. I also have basic knowledge 
 
 Here you can have a look at my code example: [Click!](https://github.com/LenaYork/hexal)
 
-Example
-
 My coding experience includes:
 
 1. Adding some scripts to websites.
